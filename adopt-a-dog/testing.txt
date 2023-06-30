@@ -1,0 +1,46 @@
+USER PERSONA:
+
+Name: Sarah Thompson
+Age: 32
+Occupation: Marketing Executive
+Location: Urban area
+
+Background:
+Sarah is a single professional living in a bustling city. She has always been an animal lover, particularly fond of dogs. She leads a busy life, working full-time and maintaining an active social life. Sarah's apartment allows pets, and she feels ready to welcome a furry companion into her life. She is considering adopting a dog from a reputable shelter or rescue organization.
+
+Technology Habits:
+Sarah is tech-savvy and relies heavily on digital platforms for various aspects of her life. She uses her smartphone and laptop for work, communication, and entertainment. She is comfortable with online research, social media, and e-commerce platforms. Sarah appreciates user-friendly websites and apps that provide clear information and a seamless user experience. She is an active user of social media platforms, following influencers and organizations related to animal welfare and pet care. Sarah is comfortable with online forms and electronic transactions, preferring digital methods over traditional paperwork.
+
+Device Preferences:
+Sarah primarily uses her smartphone for most of her online activities due to its convenience and portability. She often browses websites, checks emails, and uses social media apps on her phone. However, she also owns a laptop and occasionally uses it for more in-depth research, writing, or streaming content.
+As a busy professional, Sarah has limited free time. She needs a dog adoption website that is accessible on her smartphone during her commute or lunch breaks. Clear and concise information is essential to make informed decisions efficiently. Sarah may also have concerns about the adoption process, fees, and the reliability of the shelter or organization.
+
+TEST:
+
+1. To ensure compatibility and a consistent user experience, it's important to test my course project on multiple browsers. The following are the different browsers I have tested my course project.
+1. Google Chrome
+2. Mozilla Firefox
+3. Safari
+4. Microsoft Edge
+5. Opera
+
+2. Testing the course project on different operating systems helps ensure cross-platform compatibility. I have tested on both MAC and Windows operating systems.
+
+3. To ensure the course project is mobile-friendly and responsive, it's crucial to test it on different tablets and smartphones. The project is tested on devices with varying screen sizes and operating systems, such as: 
+1. iOS devices (e.g., iPhone, iPad)
+2. Android devices (e.g., Samsung Galaxy, Google Pixel)
+3. Windows tablets
+
+SYNOPSIS:
+
+Adopt-a-dog is an innovative and user-friendly ecommerce website dedicated to connecting dog lovers with their ideal furry companions. Our platform aims to simplify the dog adoption process, providing a seamless and enjoyable experience for users seeking to adopt a dog.
+Key Features:
+1. The page offers detailed profiles for each dog available for adoption. These profiles include high-quality photos, breed information, age, size, temperament, and any specific requirements or considerations. Users can get a clear understanding of each dog's personality and suitability for their lifestyle.
+2. We provide a robust search and filtering system, allowing users to narrow down their search based on various criteria.The users can find dogs that align with their preferences and requirements.
+3. The streamlines the adoption process, providing all necessary information and forms conveniently on the website. Users can submit adoption applications electronically, saving time and reducing paperwork. We offer guidance on adoption fees, required documentation, and the next steps to complete the process smoothly.
+4. To facilitate the adoption process, Adopt-a-dog implements a secure online payment system. Users can pay adoption fees, make donations, or contribute to fundraising campaigns directly through our platform, ensuring transparency and peace of mind.
+5. Adopt-a-dog is optimized for mobile devices, providing a user-friendly experience on smartphones and tablets. Users can access the website on the go, browse dog profiles, and submit adoption inquiries conveniently from their mobile devices.
+
+Licensing: 
+Adopt-a-dog is licensed under Animal Welfare License.
+
