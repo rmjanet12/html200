@@ -1,0 +1,10 @@
+let a,b,c,d,e,w,x,y,z;
+a=10;
+b=10;
+c="Hello";
+d=5;
+e=100;
+console.log("w=" + (a-b));
+console.log("x=" + (a+b) +" "+ c);
+console.log("y=" +(a*b-d) + " " + c);
+console.log("z=" + (e/a*d) + " " + c);
